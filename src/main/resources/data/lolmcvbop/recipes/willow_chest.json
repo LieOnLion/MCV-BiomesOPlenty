@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chest",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "biomesoplenty:willow_planks"
+    }
+  },
+  "result": {
+    "item": "lolmcvbop:willow_chest"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "lolmcv:block/chests/chest_base",
+    "textures": {
+        "wood_type": "lolmcvbop:entity/chest/redwood",
+        "particle": "biomesoplenty:block/redwood_planks"
+    }
+}

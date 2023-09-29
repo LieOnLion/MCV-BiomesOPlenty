@@ -1,0 +1,7 @@
+{
+    "parent": "lolmcv:block/chests/chest_base",
+    "textures": {
+        "wood_type": "lolmcvbop:entity/chest/palm",
+        "particle": "biomesoplenty:block/palm_planks"
+    }
+}

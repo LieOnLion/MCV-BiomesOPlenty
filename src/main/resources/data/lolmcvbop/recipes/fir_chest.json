@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chest",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "biomesoplenty:fir_planks"
+    }
+  },
+  "result": {
+    "item": "lolmcvbop:fir_chest"
+  }
+}

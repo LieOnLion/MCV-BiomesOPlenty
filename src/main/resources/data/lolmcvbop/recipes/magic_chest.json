@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chest",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "biomesoplenty:magic_planks"
+    }
+  },
+  "result": {
+    "item": "lolmcvbop:magic_chest"
+  }
+}
